@@ -1,0 +1,13 @@
+{
+    "name":"Cow",
+    "weight":{
+
+        "weight_unit":"kilograms",
+        "count":500
+    },
+   
+    "endangered":false,
+    "food_kind":"vegetarian",
+   "Predators":["Dogs","Tigers","Wolves"],
+    "delicious":4
+}

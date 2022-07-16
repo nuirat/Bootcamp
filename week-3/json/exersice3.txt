@@ -1,0 +1,6 @@
+name : string
+weight: object   {weight_unit : string   count:number}
+endangered :bool
+food_kind : string
+Predators : array
+delicious : number
